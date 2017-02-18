@@ -101,6 +101,12 @@
     <Compile Include="frmEjercicio5.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmEjercicio6.Designer.vb">
+      <DependentUpon>frmEjercicio6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEjercicio6.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -132,6 +138,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmEjercicio5.resx">
       <DependentUpon>frmEjercicio5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEjercicio6.resx">
+      <DependentUpon>frmEjercicio6.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
