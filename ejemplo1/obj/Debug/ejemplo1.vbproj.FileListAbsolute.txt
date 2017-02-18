@@ -1,0 +1,14 @@
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe.config
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\bin\Debug\ejemplo1.exe
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\bin\Debug\ejemplo1.pdb
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\bin\Debug\ejemplo1.xml
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.Resources.resources
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.vbproj.GenerateResource.Cache
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.exe
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.xml
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.pdb
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.frmEjercicio2.resources
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.frmEjercicio1.resources
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.frmEjercicio3.resources
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.frmEjercicio4.resources
+c:\users\lab-usr-i-ns125-a302.grupoutp\documents\visual studio 2013\Projects\ejemplo1\ejemplo1\obj\Debug\ejemplo1.frmEjercicio5.resources
