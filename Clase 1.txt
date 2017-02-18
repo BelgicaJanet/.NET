@@ -1,0 +1,8 @@
+CLASE 1
+VISUAL BASIC .NET
+
+- Declaracion de variables
+- Reconocimiento de elemento
+- Uso de IF y IFELSE
+
+Herramienta de pseudocodigo y generador de diagrama de flujo "PSINT"
