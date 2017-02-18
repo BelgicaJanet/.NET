@@ -2,3 +2,5 @@ CLASE 1
 - Declaracion de variables
 - Reconocimiento de elemento
 - Aplicaciones: Ejem1, ejem2.ejem3
+
+PSINT
