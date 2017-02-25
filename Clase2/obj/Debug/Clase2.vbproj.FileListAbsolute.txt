@@ -1,0 +1,11 @@
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\Clase2.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Ejercicio1.resources
+C:\Users\LAB-USR-I-NS125-A302\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Ejercicio2.resources
