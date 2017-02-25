@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe.config
 G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe
 G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.pdb
@@ -24,3 +25,31 @@ D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana
 D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo04.resources
 D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.Resources.resources
 D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.vbproj.GenerateResource.Cache
+=======
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe.config
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.pdb
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.xml
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.Resources.resources
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.vbproj.GenerateResource.Cache
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.exe
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.xml
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.pdb
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo03.resources
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo01.resources
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo02.resources
+G:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo04.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe.config
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.exe
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.xml
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.pdb
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.exe
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.pdb
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\bin\Debug\Semana01.xml
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo03.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo01.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo02.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.FrmEjemplo04.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana01\Semana01\obj\Debug\Semana01.vbproj.GenerateResource.Cache
+>>>>>>> 64b580890980be05fe093352e7379d408227b737

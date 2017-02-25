@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0"?>
 <doc>
 <assembly>
@@ -21,4 +22,29 @@ Semana02
 </summary>
 </member>
 </members>
+=======
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Semana02
+</name>
+</assembly>
+<members>
+<member name="P:Semana02.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Semana02.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Semana02.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+>>>>>>> 64b580890980be05fe093352e7379d408227b737
 </doc>
