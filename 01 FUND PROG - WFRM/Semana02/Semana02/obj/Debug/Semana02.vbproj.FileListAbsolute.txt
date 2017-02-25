@@ -1,0 +1,14 @@
+C:\Users\Jesús\AppData\Local\Temporary Projects\Semana02\bin\Debug\Semana02.exe.config
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\bin\Debug\Semana02.exe.config
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\bin\Debug\Semana02.exe
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\bin\Debug\Semana02.pdb
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\bin\Debug\Semana02.xml
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.FrmUsoCheckedList.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.FrmUsoList.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.exe
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.xml
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.pdb
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.FrmUsoCombo.resources
+D:\Idat\CURSOS\EX\VB 2013\01 FUND PROG - WFRM\Semana02\Semana02\obj\Debug\Semana02.FrmTryCatch.resources
