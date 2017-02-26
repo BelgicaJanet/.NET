@@ -89,6 +89,12 @@
     <Compile Include="Ejercicio3.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Ejercicio4.Designer.vb">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -111,6 +117,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicio2.resx">
       <DependentUpon>Ejercicio2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3.resx">
+      <DependentUpon>Ejercicio3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

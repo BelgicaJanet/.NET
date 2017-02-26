@@ -1,0 +1,4 @@
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase1\bin\Debug\ejemplo1.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase1\obj\Debug\ejemplo1.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase1\obj\Debug\ejemplo1.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase1\obj\Debug\ejemplo1.pdb
