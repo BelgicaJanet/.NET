@@ -1,0 +1,6 @@
+Arreglo Unidimensional:
+Arreglos Dim n (5) as integer <- declaracion de arreglos
+Arreglo = nombre + indice
+
+Arreglo Bidimensional:
+Dim N(3,4) as Integer <- declaracion de un arreglo bidimensional  3 filas x 4 columnas

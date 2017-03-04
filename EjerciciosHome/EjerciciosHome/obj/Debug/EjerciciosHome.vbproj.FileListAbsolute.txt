@@ -17,3 +17,22 @@ C:\Users\Ultimate\Documents\Visual Studio 2015\Projects\EjerciciosHome\Ejercicio
 C:\Users\Ultimate\Documents\Visual Studio 2015\Projects\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD1.resources
 C:\Users\Ultimate\Documents\Visual Studio 2015\Projects\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD2.resources
 C:\Users\Ultimate\Documents\Visual Studio 2015\Projects\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD3.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\bin\Debug\EjerciciosHome.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\bin\Debug\EjerciciosHome.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\bin\Debug\EjerciciosHome.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\bin\Debug\EjerciciosHome.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.vbprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD1.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD2.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.CD3.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE1.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE2.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE3.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE4.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE6.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.SE9.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\EjerciciosHome\EjerciciosHome\obj\Debug\EjerciciosHome.vbproj.GenerateResource.Cache
