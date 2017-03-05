@@ -76,8 +76,6 @@
     End Sub
 
     Private Sub btnEditar_Click(sender As Object, e As EventArgs) Handles btnEditar.Click
-
-
         If lstCodigos.SelectedIndex >= 0 Then
             HabilitarDatos(True)
             btnGuardar.Text = "Actualizar"
@@ -86,12 +84,32 @@
         End If
 
     End Sub
-
-
     Private Sub lstCodigos_Click(sender As Object, e As EventArgs) Handles lstCodigos.Click
         txtNombre.Text = lstCodigos.Items.Item(lstCodigos.SelectedIndex)
         txtCodigo.Text = aCodigo(lstCodigos.SelectedIndex)
         txtCantidad.Text = aCantidad(lstCodigos.SelectedIndex)
         txtPrecio.Text = aPrecio(lstCodigos.SelectedIndex)
+    End Sub
+
+    Private Sub btnElimar_Click(sender As Object, e As EventArgs) Handles btnElimar.Click
+        Dim idxB As Integer = -1
+
+        For idx = 0 To indice
+            If aCodigo(idx) = txtCodigo.Text Then
+                idxB = idx
+            End If
+        Next
+
+        If idxB <> -1 Then
+            For idx = idxB To indice
+                aCodigo(idx) = aCodigo(idx + 1)
+                aNombre(idx) = aNombre(idx + 1)
+                aPrecio(idx) = aPrecio(idx + 1)
+                aCantidad(idx) = aCantidad(idx + 1)
+
+            Next
+            indice = indice - 1
+        End If
+        MuestraProductos()
     End Sub
 End Class
