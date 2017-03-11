@@ -1,0 +1,76 @@
+C:\Users\Administrador\Desktop\Semana03\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\Administrador\Desktop\Semana03\Semana03\bin\Debug\Semana03.exe
+C:\Users\Administrador\Desktop\Semana03\Semana03\bin\Debug\Semana03.pdb
+C:\Users\Administrador\Desktop\Semana03\Semana03\bin\Debug\Semana03.xml
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.exe
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.xml
+C:\Users\Administrador\Desktop\Semana03\Semana03\obj\Debug\Semana03.pdb
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe.config
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.exe
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.xml
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.pdb
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.pdb
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.xml
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+E:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe.config
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.exe
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.xml
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.pdb
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.pdb
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.xml
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+F:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+G:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe.config
+G:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.exe
+G:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.xml
+G:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.pdb
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe.config
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.exe
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.xml
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.pdb
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.pdb
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.xml
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmAcceso.resources
+D:\Idat\CURSOS\EX\VB 2013\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmConsultaProd.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe.config
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.exe
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.xml
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.pdb
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.exe
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.pdb
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\bin\Debug\Semana03.xml
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmAcceso.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmConsultaProd.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+D:\Idat\VISUALBASIC\02 PROG FRMW - WFRM\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\bin\Debug\Semana03.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\bin\Debug\Semana03.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\bin\Debug\Semana03.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.FrmAcceso.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.FrmConsultaProd.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.FrmPrincipal.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache

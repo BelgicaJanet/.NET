@@ -99,7 +99,7 @@
                 idxB = idx
             End If
         Next
-
+        'MessageBox.Show(idxB)'
         If idxB <> -1 Then
             For idx = idxB To indice
                 aCodigo(idx) = aCodigo(idx + 1)

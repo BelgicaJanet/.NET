@@ -5,6 +5,7 @@
         If txtUsuario.Text = "belgica" And txtContrasena.Text = "belgica" Then
             usuario = "Belgica de la Torre"
             FrmPrincipal.Show()
+            Me.Hide()
 
         Else
             MessageBox.Show("Usuario no autorizado", "Mensaje")
