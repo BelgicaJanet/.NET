@@ -23,7 +23,7 @@
             Case RbtCodigo.Checked
                 For idx = 0 To indice
                     If TxtValor.Text = aCodigo(idx) Then
-                        LstProducto.Items.Add(aCodigo(idx))
+                        LstProducto.Items.Add(aCodigo(idx) & " - " & aNombre(idx))
                         LstPrecio.Items.Add(aPrecio(idx))
                         LstCantidad.Items.Add(aCantidad(idx))
                     End If

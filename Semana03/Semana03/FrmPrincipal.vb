@@ -12,7 +12,6 @@
     End Sub
     Private Sub MnuSalir_Click(sender As Object, e As EventArgs) Handles MnuSalir.Click
         If MessageBox.Show("¿Está seguro que desea salir?", "Mensaje", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2) = Windows.Forms.DialogResult.Yes Then
-
             End
 
         End If
