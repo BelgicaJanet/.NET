@@ -7,7 +7,7 @@
     Private _nombre As String
     Private _apePaterno As String
     Private _apeMaterno As String
-    Private _sexo As String
+    Private _sexo As Char
     Private _edad As Integer
 
 
@@ -46,11 +46,11 @@
             _apeMaterno = value
         End Set
     End Property
-    Public Property sexo() As String
+    Public Property sexo() As Char
         Get
             Return _sexo
         End Get
-        Set(value As String)
+        Set(value As Char)
             _sexo = value
         End Set
     End Property
@@ -63,5 +63,16 @@
             _edad = value
         End Set
     End Property
+
+    '**************************
+    'CONSTRUCTORES DE LA CLASE
+    '**************************
+    Public Sub New()
+        _codigo = 0 : _nombre = " " : _apePaterno = " " : _apeMaterno = " " : _sexo = " " : _edad = 0
+    End Sub
+
+    Public Sub New(pCodigo As Integer, pNombre As String, pApePaterno As String, pApeMaterno As String, pSexo As Char, pEdad As Integer)
+        _codigo = pCodigo : _nombre = pNombre : _apePaterno = pApePaterno : _apeMaterno = pApeMaterno : _sexo = pSexo : _edad = pEdad
+    End Sub
 
 End Class
