@@ -74,3 +74,7 @@ C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.FrmProductos.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.Resources.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana03\Semana03\obj\Debug\Semana03.vbproj.GenerateResource.Cache
+C:\Users\BELGICA\Desktop\.NET\Semana 03\Semana03\Semana03\bin\Debug\Semana03.exe.config
+C:\Users\BELGICA\Desktop\.NET\Semana 03\Semana03\Semana03\obj\Debug\Semana03.exe
+C:\Users\BELGICA\Desktop\.NET\Semana 03\Semana03\Semana03\obj\Debug\Semana03.xml
+C:\Users\BELGICA\Desktop\.NET\Semana 03\Semana03\Semana03\obj\Debug\Semana03.pdb

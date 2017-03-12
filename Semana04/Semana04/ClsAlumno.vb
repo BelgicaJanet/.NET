@@ -7,9 +7,8 @@
     Private _nombre As String
     Private _apePaterno As String
     Private _apeMaterno As String
-    Private _sexo As Char
+    Private _sexo As String
     Private _edad As Integer
-
 
     Public Property codigo() As Integer
         Get
@@ -46,11 +45,11 @@
             _apeMaterno = value
         End Set
     End Property
-    Public Property sexo() As Char
+    Public Property sexo() As String
         Get
             Return _sexo
         End Get
-        Set(value As Char)
+        Set(value As String)
             _sexo = value
         End Set
     End Property
@@ -78,15 +77,18 @@
     '********************
     'METODOS DE LA CLASE
     '********************
-    Public Function datosAlumno(pFormato As Integer)
-        Dim forma As String
-
-        If pFormato = 1 Then
-            forma = "NOMBRE: " & nombre & " APELLIDO: " & apellido
-        ElseIf 
-            forma = " APELLIDO: " & apellido & "NOMBRE: " & nombre
-        End If
-
+    Public Function datosAlumno() As String
+        Return "CODIGO :" & codigo & " GENERO :" & sexo & " EDAD: " & edad
     End Function
 
+    Public Function nombreCompleto(pFormato As Integer)
+        Dim formato As String
+
+        If pFormato = 1 Then
+            formato = "NOMBRE Y APELLIDOS : " & nombre & " " & apePaterno & " " & apeMaterno
+        Else
+            formato = "APELLIDOS Y NOMBRE :" & " " & apePaterno & " " & apeMaterno & " " & nombre
+        End If
+        Return formato
+    End Function
 End Class

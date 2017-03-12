@@ -45,3 +45,17 @@ C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmProducto.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.Resources.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.vbproj.GenerateResource.Cache
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.exe
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.xml
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.pdb
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\bin\Debug\Semana04.exe
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\bin\Debug\Semana04.pdb
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\bin\Debug\Semana04.xml
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.vbprojResolveAssemblyReference.cache
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmClaseDate.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmClaseMath.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmClaseString.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmProducto.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrnAlumno.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.Resources.resources
+C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.vbproj.GenerateResource.Cache
