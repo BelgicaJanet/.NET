@@ -7,9 +7,13 @@
         txtMinuscula.Text = cadena.ToLower
         txtCentro.Text = cadena.Substring(2, 2)
 
+       
         For idx = 0 To cadena.Length - 1
             lstCaracteres.Items.Add(cadena.Substring(0, idx + 1).ToUpper)
         Next
+
+      
+
         txtPrueba.Text = txtMayuscula.Text.IndexOf("E")
 
 
