@@ -69,6 +69,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClsAlumno.vb" />
     <Compile Include="FrmClaseDate.Designer.vb">
       <DependentUpon>FrmClaseDate.vb</DependentUpon>
     </Compile>

@@ -75,4 +75,18 @@
         _codigo = pCodigo : _nombre = pNombre : _apePaterno = pApePaterno : _apeMaterno = pApeMaterno : _sexo = pSexo : _edad = pEdad
     End Sub
 
+    '********************
+    'METODOS DE LA CLASE
+    '********************
+    Public Function datosAlumno(pFormato As Integer)
+        Dim forma As String
+
+        If pFormato = 1 Then
+            forma = "NOMBRE: " & nombre & " APELLIDO: " & apellido
+        ElseIf 
+            forma = " APELLIDO: " & apellido & "NOMBRE: " & nombre
+        End If
+
+    End Function
+
 End Class
