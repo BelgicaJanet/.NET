@@ -78,8 +78,8 @@
     Private Sub BtnSeleccionar_Click(sender As Object, e As EventArgs) Handles BtnSeleccionar.Click
         Dim ind As Integer
         ind = InputBox("Ingrese Indice:", "Mensaje")
-        CboDatos.SelectedIndex = ind
-    End Sub
+    CboDatos.SelectedIndex = indsel
+End Sub
 
     Private Sub BtnLiberar_Click(sender As Object, e As EventArgs) Handles BtnLiberar.Click
         CboDatos.SelectedIndex = -1

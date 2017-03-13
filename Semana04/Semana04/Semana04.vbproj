@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClsAlumno.vb" />
+    <Compile Include="ClsItems.vb" />
     <Compile Include="FrmClaseDate.Designer.vb">
       <DependentUpon>FrmClaseDate.vb</DependentUpon>
     </Compile>
@@ -86,6 +87,12 @@
       <DependentUpon>FrmClaseString.vb</DependentUpon>
     </Compile>
     <Compile Include="FrmClaseString.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmItems.Designer.vb">
+      <DependentUpon>FrmItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmItems.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmProducto.vb">
@@ -127,6 +134,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmClaseString.resx">
       <DependentUpon>FrmClaseString.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmItems.resx">
+      <DependentUpon>FrmItems.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmProducto.resx">
       <DependentUpon>FrmProducto.vb</DependentUpon>
