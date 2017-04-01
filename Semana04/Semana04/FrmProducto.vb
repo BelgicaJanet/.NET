@@ -1,5 +1,5 @@
 ﻿Public Class FrmProducto
-    Dim objProd As New ClsProducto()
+    Dim objProd As New ClsProducto
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         With objProd

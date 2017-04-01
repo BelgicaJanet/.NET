@@ -50,7 +50,7 @@
     End Property
 
     Public Sub New()
-        _codigo = 0 : _nombre = " " : _tipoTraslado = " " : _precioCosto = 0 : _precioVenta = 0
+        _codigo = 0 : _nombre = " " : _tipoTraslado = 0 : _precioCosto = 0 : _precioVenta = 0
     End Sub
 
     Public Sub New(pCodigo As Integer, pNombre As String, pTipoTraslado As Double, pPrecioCosto As Double)

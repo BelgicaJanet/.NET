@@ -1,5 +1,5 @@
 ﻿Public Class FrmItems
-    Dim objItem As ClsItems
+    Dim objItem As New ClsItems()
     Private Sub btnCalcular_Click(sender As Object, e As EventArgs) Handles btnCalcular.Click
         Dim cantidad As Double
 

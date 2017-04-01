@@ -60,3 +60,6 @@ C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrnAlumno.res
 C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.Resources.resources
 C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.vbproj.GenerateResource.Cache
 C:\Users\BELGICA\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmItems.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.vbprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrmItems.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana04\Semana04\obj\Debug\Semana04.FrnAlumno.resources
