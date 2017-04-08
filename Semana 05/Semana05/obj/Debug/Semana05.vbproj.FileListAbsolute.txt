@@ -1,0 +1,63 @@
+C:\Users\Administrador\Desktop\Semana05\Semana05\bin\Debug\Semana05.exe.config
+C:\Users\Administrador\Desktop\Semana05\Semana05\bin\Debug\Semana05.exe
+C:\Users\Administrador\Desktop\Semana05\Semana05\bin\Debug\Semana05.pdb
+C:\Users\Administrador\Desktop\Semana05\Semana05\bin\Debug\Semana05.xml
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.Form1.resources
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.Resources.resources
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.exe
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.xml
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.pdb
+C:\Users\Administrador\Desktop\Semana05\Semana05\obj\Debug\Semana05.Form2.resources
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\bin\Debug\Semana05.exe.config
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.exe
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.xml
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.pdb
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\bin\Debug\Semana05.exe
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\bin\Debug\Semana05.pdb
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\bin\Debug\Semana05.xml
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.Form1.resources
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.Form2.resources
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.Resources.resources
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.vbproj.GenerateResource.Cache
+H:\Idat\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana05\Semana05\obj\Debug\Semana05.Form3.resources
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe.config
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.xml
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe.config
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Form1.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Form2.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Form3.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Resources.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.vbproj.GenerateResource.Cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe.config
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.FrmProducto.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe.config
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.exe
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.exe
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\bin\Debug\Semana05.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.FrmProducto.resources
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.Resources.resources
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.vbproj.GenerateResource.Cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana05\Semana05\obj\Debug\Semana05.vbprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 05\Semana05\bin\Debug\Semana05.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 05\Semana05\obj\Debug\Semana05.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 05\Semana05\obj\Debug\Semana05.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 05\Semana05\obj\Debug\Semana05.pdb
