@@ -1,0 +1,56 @@
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaEntidad\obj\Debug\CapaEntidad.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.pdb
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\bin\Debug\CapaEntidad.xml
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.xml
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaEntidad\obj\Debug\CapaEntidad.pdb

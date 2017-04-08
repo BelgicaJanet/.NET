@@ -1,0 +1,180 @@
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.frmcategoria.resources
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.exe
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.exe
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.frmcategoria.resources
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Modelodebusqueda.resources
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.exe
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.xml
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.pdb
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.exe
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.pdb
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.xml
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.dll
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.dll
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.dll
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.pdb
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.xml
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.pdb
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.xml
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.pdb
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.xml
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.frmcategoria.resources
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Modelodebusqueda.resources
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+H:\avance idat\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.exe
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.exe
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.frmcategoria.resources
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Modelodebusqueda.resources
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.FrmMantenimientoCategoria.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.FrmReporteProductoCategoria.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaDiseño\obj\Debug\CapaDiseño.FrmListadoMaestros.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.FrmMantenimientoCategoria.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.FrmReporteProductoCategoria.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.FrmListadoMaestros.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.pdb
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.xml
+E:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\Semana07\CapaDiseño\obj\Debug\CapaDiseño.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmCuentas.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.exe
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDiseño.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaDatos.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\bin\Debug\CapaNegocio.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmCuentas.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.exe
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmCuentasBusqueda.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmCuentasExportar.resources
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmMantUsuario.resources
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache

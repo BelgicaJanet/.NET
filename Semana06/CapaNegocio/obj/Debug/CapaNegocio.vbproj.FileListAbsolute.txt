@@ -1,0 +1,122 @@
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.pdb
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.dll
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.xml
+J:\Visual Studio - IDAT\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.pdb
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.dll
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.pdb
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.xml
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.dll
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.dll
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.pdb
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.xml
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.pdb
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.xml
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.dll
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.xml
+H:\avance idat\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.pdb
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.dll
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.xml
+H:\CURSOS\DESARROLLADOR VISUAL STUDIO\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana 7\Semana 7\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Administrador\Desktop\03 ADO NET - SQL\Semana07\Semana07\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.pdb
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.xml
+F:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
