@@ -34,7 +34,7 @@ Partial Class FrmMantUsuario
         Me.dgUsuario.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.dgUsuario.Location = New System.Drawing.Point(0, 0)
         Me.dgUsuario.Name = "dgUsuario"
-        Me.dgUsuario.Size = New System.Drawing.Size(421, 347)
+        Me.dgUsuario.Size = New System.Drawing.Size(340, 347)
         Me.dgUsuario.TabIndex = 0
         '
         'FrmMantUsuario
