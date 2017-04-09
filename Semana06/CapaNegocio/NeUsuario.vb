@@ -4,7 +4,7 @@ Imports CapaEntidad
 Public Class NeUsuario
     Public Shared Function ListadoUsuarios(pTipo As String, pUsrId As String) As DataTable
         Dim oDt As New DataTable
-        oDt = DaUsuario.ListadoUsuarios(pTipo, pUsrId)
+        oDt = DaUsuario.ConsultarUsuarios(pTipo, pUsrId)
         Return (oDt)
     End Function
 

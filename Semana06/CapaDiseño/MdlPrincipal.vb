@@ -1,4 +1,5 @@
 ﻿Module MdlPrincipal
-    Public gStrUsrId As String
-    Public gStrUsrNombre As String
+    Public gUsrId As String
+    Public gUsrNombre As String
+    Public gUsrApellido As String
 End Module

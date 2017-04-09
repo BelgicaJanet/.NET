@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Conexion.vb" />
     <Compile Include="DaCategoria.vb" />
+    <Compile Include="DaProducto.vb" />
     <Compile Include="DaUsuario.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
