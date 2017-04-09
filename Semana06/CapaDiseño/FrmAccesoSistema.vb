@@ -10,7 +10,7 @@ Public Class FrmAccesoSistema
             gUsrId = oDtUsr(0)(0).ToString
             gUsrNombre = oDtUsr(0)(1).ToString
             gUsrApellido = oDtUsr(0)(2).ToString
-            FrmFormPrincipal.Show()
+            FrmMantUsuario.Show()
             Me.Hide()
         Else
             MessageBox.Show("Usuario no autorizado", "Sistema")
