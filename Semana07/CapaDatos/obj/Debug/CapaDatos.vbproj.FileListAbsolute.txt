@@ -1,0 +1,24 @@
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaDatos.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaDatos\obj\Debug\CapaDatos.pdb

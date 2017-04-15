@@ -1,0 +1,16 @@
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.pdb

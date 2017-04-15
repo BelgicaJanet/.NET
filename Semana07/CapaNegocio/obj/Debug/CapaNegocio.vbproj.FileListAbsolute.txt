@@ -1,0 +1,30 @@
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\Idat\CURSOS\EX\VB 2013\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\bin\Debug\CapaEntidad.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.pdb
