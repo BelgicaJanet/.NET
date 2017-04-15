@@ -42,6 +42,8 @@ Partial Class FrmPedido
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.LblUsrId = New System.Windows.Forms.Label()
         Me.LblUsuario = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -51,9 +53,9 @@ Partial Class FrmPedido
         '
         Me.LvCategoria.GridLines = True
         Me.LvCategoria.HideSelection = False
-        Me.LvCategoria.Location = New System.Drawing.Point(12, 12)
+        Me.LvCategoria.Location = New System.Drawing.Point(12, 31)
         Me.LvCategoria.Name = "LvCategoria"
-        Me.LvCategoria.Size = New System.Drawing.Size(373, 158)
+        Me.LvCategoria.Size = New System.Drawing.Size(373, 139)
         Me.LvCategoria.TabIndex = 0
         Me.LvCategoria.UseCompatibleStateImageBehavior = False
         '
@@ -171,9 +173,9 @@ Partial Class FrmPedido
         'LvProducto
         '
         Me.LvProducto.HideSelection = False
-        Me.LvProducto.Location = New System.Drawing.Point(12, 176)
+        Me.LvProducto.Location = New System.Drawing.Point(12, 204)
         Me.LvProducto.Name = "LvProducto"
-        Me.LvProducto.Size = New System.Drawing.Size(373, 252)
+        Me.LvProducto.Size = New System.Drawing.Size(373, 224)
         Me.LvProducto.TabIndex = 3
         Me.LvProducto.UseCompatibleStateImageBehavior = False
         '
@@ -250,11 +252,31 @@ Partial Class FrmPedido
         Me.LblUsuario.TabIndex = 7
         Me.LblUsuario.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(13, 12)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(52, 13)
+        Me.Label2.TabIndex = 7
+        Me.Label2.Text = "Categoria"
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Location = New System.Drawing.Point(16, 185)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(50, 13)
+        Me.Label6.TabIndex = 8
+        Me.Label6.Text = "Producto"
+        '
         'FrmPedido
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(769, 502)
+        Me.Controls.Add(Me.Label6)
+        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.LvProducto)
@@ -268,6 +290,7 @@ Partial Class FrmPedido
         Me.GroupBox2.PerformLayout()
         Me.GroupBox3.ResumeLayout(False)
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents LvCategoria As System.Windows.Forms.ListView
@@ -290,5 +313,7 @@ Partial Class FrmPedido
     Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
     Friend WithEvents LblUsuario As System.Windows.Forms.Label
     Friend WithEvents LblUsrId As System.Windows.Forms.Label
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents Label6 As System.Windows.Forms.Label
 
 End Class

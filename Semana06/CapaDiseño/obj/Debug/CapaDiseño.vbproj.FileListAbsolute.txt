@@ -200,3 +200,5 @@ C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDi
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.xml
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.pdb
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmPedido.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmReporte.resources
