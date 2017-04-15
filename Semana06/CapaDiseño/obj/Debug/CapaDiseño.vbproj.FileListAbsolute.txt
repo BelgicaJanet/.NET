@@ -177,3 +177,29 @@ G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDis
 G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
 G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDiseño.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaEntidad.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaNegocio.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaDatos.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaEntidad.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaEntidad.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaNegocio.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\bin\Debug\CapaNegocio.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.ResolveComReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmAccesoSistema.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmFormPrincipal.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmMantUsuario.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmPedido.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmProducto.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.FrmReporte.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDiseño\obj\Debug\CapaDiseño.pdb

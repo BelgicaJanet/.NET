@@ -22,3 +22,7 @@ C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase3\Semana3\obj\Debug\Semana3.FrmP
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase3\Semana3\obj\Debug\Semana3.FrmProducto.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase3\Semana3\obj\Debug\Semana3.Resources.resources
 C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Clase3\Semana3\obj\Debug\Semana3.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 03\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 03\Semana3\obj\Debug\Semana3.exe
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 03\Semana3\obj\Debug\Semana3.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana 03\Semana3\obj\Debug\Semana3.pdb

@@ -5,9 +5,13 @@ Imports CapaEntidad
 Public Class FrmPedido
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        LvCategoria.Items.Add("AAAA").Tag = "01"
-        LvCategoria.Items.Add("BBBB").Tag = "02"
+        Dim oDtCat As DataTable
 
+        oDtCat = NeCategoria.ListarCategorias("L", "")
+
+        For i = 0 To oDtCat.Rows.Count - 1
+            LvCategoria.Items.Add(oDtCat(i)(1)).Tag = oDtCat(i)(0)
+        Next
         LvPedido.Columns.Add("Codigo")
         LvPedido.Columns.Add("Descripción")
         LvPedido.Columns.Add("Precio")
@@ -17,14 +21,13 @@ Public Class FrmPedido
 
     Private Sub LvCategoria_MouseClick(sender As Object, e As MouseEventArgs) Handles LvCategoria.MouseClick
         LvProducto.Items.Clear()
-        If LvCategoria.SelectedItems(0).Tag = "01" Then
-            LvProducto.Items.Add("XXXX").Tag = "0001|5"
-            LvProducto.Items.Add("YYYY").Tag = "0002|8"
-            LvProducto.Items.Add("ZZZZ").Tag = "0003|7"
-        Else
-            LvProducto.Items.Add("WWWW").Tag = "0004|12"
-            LvProducto.Items.Add("QQQQ").Tag = "0005|10"
-        End If
+        Dim oDtPro As DataTable
+        oDtPro = NeProducto.ListadoProductos("C", "", LvCategoria.SelectedItems(0).Tag)
+        For i = 0 To oDtPro.Rows.Count - 1
+            ' Posicion de la columna representa el numero al costado del I
+            LvProducto.Items.Add(oDtPro(i)(1)).Tag = oDtPro(i)(0) & "|" & oDtPro(i)(2)
+        Next
+
     End Sub
 
     Private Sub LvProducto_MouseClick(sender As Object, e As MouseEventArgs) Handles LvProducto.MouseClick

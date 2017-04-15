@@ -20,4 +20,8 @@
     Private Sub ProductoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ProductoToolStripMenuItem.Click
         FrmProducto.Show()
     End Sub
+
+    Private Sub FrmFormPrincipal_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        toolUser.Text = "Usuario: " & gUsrNombre & " " & gUsrApellido
+    End Sub
 End Class

@@ -3,7 +3,7 @@ Public Class DaProducto
 
     Shared strSql As String
 
-    Public Shared Function ConsultarProducto(pTipo As String, pProducto As String) As DataTable
+    Public Shared Function ConsultarProducto(pTipo As String, pProducto As String, pCategoria As String) As DataTable
         Dim oDt As New DataTable
         Dim oConn As New SqlClient.SqlConnection
         Dim oCmd As New SqlClient.SqlCommand
@@ -15,6 +15,7 @@ Public Class DaProducto
         'Parametro de Entrada
         oCmd.Parameters.Add("@TIPO", SqlDbType.Char, 1).Value = pTipo
         oCmd.Parameters.Add("@PROD_ID", SqlDbType.Char, 4).Value = pProducto
+        oCmd.Parameters.Add("@CAT_ID", SqlDbType.Char, 2).Value = pCategoria
         oDt.Load(oCmd.ExecuteReader)
         oConn.Close()
         Return oDt
