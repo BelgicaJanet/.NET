@@ -105,15 +105,3 @@ G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDatos\obj\Debug\CapaDatos
 G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDatos\obj\Debug\CapaDatos.dll
 G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDatos\obj\Debug\CapaDatos.xml
 G:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana06\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaDatos.xml
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaEntidad.dll
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaEntidad.pdb
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\bin\Debug\CapaEntidad.xml
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.Resources.resources
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.xml
-C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana06\CapaDatos\obj\Debug\CapaDatos.pdb

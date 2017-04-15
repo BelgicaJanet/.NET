@@ -24,13 +24,14 @@ Partial Class FrmFormPrincipal
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
         Me.EntidadesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ProcesoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CategoriasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ProductoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.UsuarioToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ProcesoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PedidosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StatusStrip1 = New System.Windows.Forms.StatusStrip()
-        Me.ToolStripStatusLabel1 = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.toolUser = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.ReporteToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.StatusStrip1.SuspendLayout()
         Me.SuspendLayout()
@@ -51,13 +52,6 @@ Partial Class FrmFormPrincipal
         Me.EntidadesToolStripMenuItem.Size = New System.Drawing.Size(70, 20)
         Me.EntidadesToolStripMenuItem.Text = "Entidades"
         '
-        'ProcesoToolStripMenuItem
-        '
-        Me.ProcesoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PedidosToolStripMenuItem})
-        Me.ProcesoToolStripMenuItem.Name = "ProcesoToolStripMenuItem"
-        Me.ProcesoToolStripMenuItem.Size = New System.Drawing.Size(61, 20)
-        Me.ProcesoToolStripMenuItem.Text = "Proceso"
-        '
         'CategoriasToolStripMenuItem
         '
         Me.CategoriasToolStripMenuItem.Name = "CategoriasToolStripMenuItem"
@@ -76,6 +70,13 @@ Partial Class FrmFormPrincipal
         Me.UsuarioToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
         Me.UsuarioToolStripMenuItem.Text = "Usuario"
         '
+        'ProcesoToolStripMenuItem
+        '
+        Me.ProcesoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.PedidosToolStripMenuItem, Me.ReporteToolStripMenuItem})
+        Me.ProcesoToolStripMenuItem.Name = "ProcesoToolStripMenuItem"
+        Me.ProcesoToolStripMenuItem.Size = New System.Drawing.Size(61, 20)
+        Me.ProcesoToolStripMenuItem.Text = "Proceso"
+        '
         'PedidosToolStripMenuItem
         '
         Me.PedidosToolStripMenuItem.Name = "PedidosToolStripMenuItem"
@@ -84,18 +85,24 @@ Partial Class FrmFormPrincipal
         '
         'StatusStrip1
         '
-        Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripStatusLabel1})
+        Me.StatusStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.toolUser})
         Me.StatusStrip1.Location = New System.Drawing.Point(0, 301)
         Me.StatusStrip1.Name = "StatusStrip1"
         Me.StatusStrip1.Size = New System.Drawing.Size(759, 22)
         Me.StatusStrip1.TabIndex = 1
         Me.StatusStrip1.Text = "StatusStrip1"
         '
-        'ToolStripStatusLabel1
+        'toolUser
         '
-        Me.ToolStripStatusLabel1.Name = "ToolStripStatusLabel1"
-        Me.ToolStripStatusLabel1.Size = New System.Drawing.Size(120, 17)
-        Me.ToolStripStatusLabel1.Text = "ToolStripStatusLabel1"
+        Me.toolUser.Name = "toolUser"
+        Me.toolUser.Size = New System.Drawing.Size(120, 17)
+        Me.toolUser.Text = "ToolStripStatusLabel1"
+        '
+        'ReporteToolStripMenuItem
+        '
+        Me.ReporteToolStripMenuItem.Name = "ReporteToolStripMenuItem"
+        Me.ReporteToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ReporteToolStripMenuItem.Text = "Reporte"
         '
         'FrmFormPrincipal
         '
@@ -124,5 +131,6 @@ Partial Class FrmFormPrincipal
     Friend WithEvents ProcesoToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents PedidosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents StatusStrip1 As System.Windows.Forms.StatusStrip
-    Friend WithEvents ToolStripStatusLabel1 As System.Windows.Forms.ToolStripStatusLabel
+    Friend WithEvents toolUser As System.Windows.Forms.ToolStripStatusLabel
+    Friend WithEvents ReporteToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class
