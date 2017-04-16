@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NeCategoria.vb" />
+    <Compile Include="NePedido.vb" />
     <Compile Include="NeProducto.vb" />
     <Compile Include="NeUsuario.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

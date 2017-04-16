@@ -17,6 +17,9 @@ Public Class FrmPedido
         LvPedido.Columns.Add("Precio")
         LvPedido.Columns.Add("Cantidad")
         LvPedido.Columns.Add("Importe")
+
+        LblUsrId.Text = gUsrId
+        LblUsuario.Text = gUsrNombre
     End Sub
 
     Private Sub LvCategoria_MouseClick(sender As Object, e As MouseEventArgs) Handles LvCategoria.MouseClick
@@ -64,6 +67,11 @@ Public Class FrmPedido
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim oDt As DataTable
+        oDt = NeUsuario.ListadoUsuarios("N", "")
+        Dim objUsuario As EnUsuario
+        LblUsrId.Text = oDt(0)(0)
+        objUsuario.USR_ID = LblUsrId.text()
 
     End Sub
 End Class
