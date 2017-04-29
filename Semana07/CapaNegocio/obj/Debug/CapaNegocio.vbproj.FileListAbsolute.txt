@@ -28,3 +28,9 @@ D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNeg
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.xml
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaNegocio\obj\Debug\CapaNegocio.pdb

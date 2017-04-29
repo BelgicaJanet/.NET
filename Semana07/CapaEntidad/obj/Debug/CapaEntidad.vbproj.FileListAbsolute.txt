@@ -14,3 +14,11 @@ D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEnt
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.xml
 D:\Idat\VISUALBASIC\03 PROG ADO - SQL SRV\Semana07\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\LAB-USR-I-NS125-A302\Desktop\.NET\Semana07\CapaEntidad\obj\Debug\CapaEntidad.pdb
