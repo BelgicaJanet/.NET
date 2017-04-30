@@ -1,6 +1,6 @@
 ﻿Imports CapaEntidad
 Public Class DaProducto
-    Public Shared Function buscarProducto(pStrFilter As String, pStrLstCampos As String) As IDataAdapter
+    Public Shared Function buscarProducto(pStrFilter As String, pStrLstCampos As String) As SqlClient.SqlDataAdapter
         Dim oDa As New SqlClient.SqlDataAdapter
 
         Try

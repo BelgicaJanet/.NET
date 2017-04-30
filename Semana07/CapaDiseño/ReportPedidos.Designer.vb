@@ -23,9 +23,6 @@ Partial Class ReportPedidos
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.comboDesde = New System.Windows.Forms.ComboBox()
-        Me.comboHasta = New System.Windows.Forms.ComboBox()
-        Me.comboUsuario = New System.Windows.Forms.ComboBox()
         Me.RadioButton1 = New System.Windows.Forms.RadioButton()
         Me.RadioButton2 = New System.Windows.Forms.RadioButton()
         Me.btnBuscar = New System.Windows.Forms.Button()
@@ -34,6 +31,9 @@ Partial Class ReportPedidos
         Me.btnExcel = New System.Windows.Forms.Button()
         Me.btnText = New System.Windows.Forms.Button()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.comboUsuario = New System.Windows.Forms.ComboBox()
+        Me.dataInicio = New System.Windows.Forms.DateTimePicker()
+        Me.DataFin = New System.Windows.Forms.DateTimePicker()
         Me.SuspendLayout()
         '
         'Label1
@@ -44,30 +44,6 @@ Partial Class ReportPedidos
         Me.Label1.Size = New System.Drawing.Size(90, 13)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Filtro de Reportes"
-        '
-        'comboDesde
-        '
-        Me.comboDesde.FormattingEnabled = True
-        Me.comboDesde.Location = New System.Drawing.Point(29, 43)
-        Me.comboDesde.Name = "comboDesde"
-        Me.comboDesde.Size = New System.Drawing.Size(121, 21)
-        Me.comboDesde.TabIndex = 1
-        '
-        'comboHasta
-        '
-        Me.comboHasta.FormattingEnabled = True
-        Me.comboHasta.Location = New System.Drawing.Point(29, 80)
-        Me.comboHasta.Name = "comboHasta"
-        Me.comboHasta.Size = New System.Drawing.Size(121, 21)
-        Me.comboHasta.TabIndex = 2
-        '
-        'comboUsuario
-        '
-        Me.comboUsuario.FormattingEnabled = True
-        Me.comboUsuario.Location = New System.Drawing.Point(177, 43)
-        Me.comboUsuario.Name = "comboUsuario"
-        Me.comboUsuario.Size = New System.Drawing.Size(85, 21)
-        Me.comboUsuario.TabIndex = 3
         '
         'RadioButton1
         '
@@ -143,11 +119,37 @@ Partial Class ReportPedidos
         Me.TextBox1.Size = New System.Drawing.Size(369, 173)
         Me.TextBox1.TabIndex = 11
         '
+        'comboUsuario
+        '
+        Me.comboUsuario.FormattingEnabled = True
+        Me.comboUsuario.Location = New System.Drawing.Point(180, 42)
+        Me.comboUsuario.Name = "comboUsuario"
+        Me.comboUsuario.Size = New System.Drawing.Size(85, 21)
+        Me.comboUsuario.TabIndex = 3
+        '
+        'dataInicio
+        '
+        Me.dataInicio.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dataInicio.Location = New System.Drawing.Point(29, 43)
+        Me.dataInicio.Name = "dataInicio"
+        Me.dataInicio.Size = New System.Drawing.Size(115, 20)
+        Me.dataInicio.TabIndex = 12
+        '
+        'DataFin
+        '
+        Me.DataFin.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.DataFin.Location = New System.Drawing.Point(29, 69)
+        Me.DataFin.Name = "DataFin"
+        Me.DataFin.Size = New System.Drawing.Size(115, 20)
+        Me.DataFin.TabIndex = 13
+        '
         'ReportPedidos
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(944, 436)
+        Me.Controls.Add(Me.DataFin)
+        Me.Controls.Add(Me.dataInicio)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.btnText)
         Me.Controls.Add(Me.btnExcel)
@@ -157,8 +159,6 @@ Partial Class ReportPedidos
         Me.Controls.Add(Me.RadioButton2)
         Me.Controls.Add(Me.RadioButton1)
         Me.Controls.Add(Me.comboUsuario)
-        Me.Controls.Add(Me.comboHasta)
-        Me.Controls.Add(Me.comboDesde)
         Me.Controls.Add(Me.Label1)
         Me.Name = "ReportPedidos"
         Me.Text = "ReportPedidos"
@@ -167,9 +167,6 @@ Partial Class ReportPedidos
 
     End Sub
     Friend WithEvents Label1 As System.Windows.Forms.Label
-    Friend WithEvents comboDesde As System.Windows.Forms.ComboBox
-    Friend WithEvents comboHasta As System.Windows.Forms.ComboBox
-    Friend WithEvents comboUsuario As System.Windows.Forms.ComboBox
     Friend WithEvents RadioButton1 As System.Windows.Forms.RadioButton
     Friend WithEvents RadioButton2 As System.Windows.Forms.RadioButton
     Friend WithEvents btnBuscar As System.Windows.Forms.Button
@@ -178,4 +175,7 @@ Partial Class ReportPedidos
     Friend WithEvents btnExcel As System.Windows.Forms.Button
     Friend WithEvents btnText As System.Windows.Forms.Button
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents comboUsuario As System.Windows.Forms.ComboBox
+    Friend WithEvents dataInicio As System.Windows.Forms.DateTimePicker
+    Friend WithEvents DataFin As System.Windows.Forms.DateTimePicker
 End Class
