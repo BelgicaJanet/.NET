@@ -1,4 +1,5 @@
-﻿Imports CapaNegocio
+﻿Imports Microsoft.Office.Interop
+Imports CapaNegocio
 Imports CapaEntidad
 Public Class ReportPedidos
 
@@ -20,10 +21,37 @@ Public Class ReportPedidos
 
     End Sub
 
+    Private Sub btnExcel_click(sender As Object, e As EventArgs) Handles btnExcel.Click
+        Dim objExcel As New Excel.Application
+        Dim objLibro As Excel.Workbook = objExcel.Workbooks.Add()
+        Dim objhoja As Excel.Worksheet = objLibro.Worksheets(1)
 
-  
-    Private Sub comboDesde_SelectedIndexChanged(sender As Object, e As EventArgs) Handles comboDesde.SelectedIndexChanged
+        objhoja.Columns(1).ColumnWidth = 10
 
-      
+        objhoja.Cells(1, 1) = "Hola"
+        objhoja.Cells(5, 1) = "Nro. Pedido"
+
+        objhoja.Range("a1:e1").Merge()
+        objhoja.Range("a1:e1").Font.FontStyle = "Arial"
+        objhoja.Range("a1:e1").Font.Size = 16
+        objhoja.Range("a1:e1").Font.Bold = "true"
+
+
+        objExcel.Visible = True
     End Sub
-End Class
+
+
+    Private Sub btnWord_click(sender As Object, e As EventArgs) Handles btnWord.Click
+        Dim objWord As New Word.Application
+        Dim objDoc As Word.Document = objWord.Documents.Add()
+        Dim objTable As Word.Table = objDoc.Tables.Add(objDoc.Bookmarks.Item("\endofdoc").Range, 5, 5)
+
+        objTable.Cell(1, 1).Range.Text = "PEDIDO"
+        objTable.Cell(1, 2).Range.Text = "FECHA"
+        objTable.Cell(1, 1).Range.Font.Bold = True
+        objTable.Cell(1, 2).Range.Font.Bold = True
+        objWord.Visible = True
+    End Sub
+
+
+    End Class
